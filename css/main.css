@@ -1,65 +1,14 @@
-
-/**
-* -------------
-* Global Styles
-* -------------
-*/
-
-body {
-  /* Default font family and font color */
+.entete{
+  background-color: #fcce00; width: 1440px;
 }
 
-p, li, textarea, label, input, select {
-  /* Default font size and line height */
+.entete__titre{
+  color: white;
+  font-family: Poppins;
+  text-align: center;
+  font-size: 88px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 1440px;
+
 }
-
-
-
-h1 {
-   /* Default font, size, and margins */
-}
-
-h2 {
-  /* Default font, size, and margins */
-}
-
-h3 {
-  /* Default font, size, and margins */
-}
-
-h4 {
-  /* Default font, size, and margins */
-}
-
-h5 {
-  /* Default font, size, and margins */
-}
-
-h6 {
-  /* Default font, size, and margins */
-}
-
-
-a {
-  /* Link color */
-}
-
-a:hover {
-  /* Link color on mouse over */
-}
-
-
-/**
-* ------
-* Layout
-* ------
-*/
-
-
-
-
-/**
-* ----------
-* Components
-* ----------
-*/
