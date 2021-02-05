@@ -91,7 +91,7 @@
   font-family: Poppins;
   text-align:justify;
   font-size: 16px;
-  width: 640;
+  width: 640px;
   margin-top: 34px;
   margin-left: 48px;
   margin-right: 31px;
@@ -111,5 +111,21 @@
   width: 170px;
   padding-top: 5px;
   padding-bottom: 5px;
-  margin-left: 430px;
+  margin-left: 510px;
+}
+
+.block2{
+  width: 720px;
+  height: 512px;
+  background-color: #fcce00;
+  background: linear-gradient(to bottom, #FCD72F 50%, #FDE062 50%,
+#FDE062 75%, #FDEA95 75%, #FDEA95 88%, #FEF5CB 88%)
+}
+.imagecomputer {
+  width: 487px;
+  height: 471px;
+  mix-blend-mode:darken;
+  margin-left: 200px;
+  margin-top: 40px;
+
 }
