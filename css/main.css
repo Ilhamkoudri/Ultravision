@@ -57,3 +57,16 @@
   height: 8px;
   width: 1440px;
 }
+
+.catchphrase{
+  width: 993px;
+  height: 56px;
+  font-family: Poppins;
+  text-align: center;
+  font-size: 35px;
+  font-weight: 900;
+  margin-left: 231px;
+  color: #231f20;
+  margin-top: 64px;
+  margin-bottom: 64px;
+}
