@@ -1,5 +1,6 @@
 .entete{
-  background-color: #fcce00; width: 1440px;
+  background-color: #fcce00;
+  width: 1440px;
 }
 
 .entete__titre{
@@ -11,4 +12,16 @@
   margin-bottom: 0px;
   width: 1440px;
 
+}
+
+.entete2{
+  color: white;
+  text-align: center;
+  background-color: #ff6b00;
+  font-family: Poppins;
+  font-size: 38px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height: 64px;
+  width: 1440px;
 }
