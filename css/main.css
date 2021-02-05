@@ -70,3 +70,29 @@
   margin-top: 64px;
   margin-bottom: 64px;
 }
+
+.firstblock{
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+
+.blocktitle1{
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 24px;
+  color: #231f20;
+  width: 640px;
+  height: 33px;
+  text-align: center;
+}
+
+.textblock1{
+  font-family: Poppins;
+  text-align:justify;
+  font-size: 16px;
+  width: 640;
+  margin-top: 34px;
+  margin-left: 48px;
+  margin-right: 31px;
+}
