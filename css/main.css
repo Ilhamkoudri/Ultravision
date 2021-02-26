@@ -361,3 +361,21 @@ mix-blend-mode: darken;
 margin-bottom : 46px;
 margin-top : 18px
 }
+
+.footer{
+width: 1440px;
+height: 2229px;
+background-color: #231f20;
+}
+
+.latest{
+font-family: Poppins;
+font-size: 40px;
+color: #ffffff;
+font-weight: 900;
+width: 316px;
+height: 56px;
+margin-left: 562.5px;
+margin-right: 561.5px;
+padding-top: 64px;
+}
