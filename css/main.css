@@ -379,3 +379,51 @@ margin-left: 562.5px;
 margin-right: 561.5px;
 padding-top: 64px;
 }
+
+.blockfooter{
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+
+.image10{
+margin-top: 32px;
+}
+
+.image11{ 
+margin-top: 32px;
+}
+
+.image11 :hover{
+opacity: 60%;
+transition: 300ms opacity;
+}
+
+.image12{
+margin-top: 32px;
+}
+
+.image13{
+margin-top: 32px;
+}
+
+.image14{
+margin-top: 32px;
+}
+
+.image14 :hover{
+opacity: 60%;
+transition: 300ms opacity;
+}
+
+.image15{
+margin-top: 32px;
+}
+
+.image16{
+margin-top: 32px;
+}
+
+.image17{
+margin-top: 32px;
+}
